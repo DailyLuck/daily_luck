@@ -5,3 +5,4 @@ webpack已包含: scss loader、router config trick 404 for github page
 redux已能與router整合
 test:uni-test expect
 daily_luck
+host the static page but use mongose
